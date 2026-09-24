@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yarima
-- 👀 I’m interested in ... Python, Java, sql, C++ and javacript 
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ... Python, sql, and javacript 
+- 🌱 I’m currently working on a livestock monitoring system
 - 💞️ I’m looking to collaborate on ...building apps and helping others solve their problems
 - 📫 How to reach me ... twitter @yar1ma_
 
